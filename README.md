@@ -7,7 +7,7 @@ https://github.com/ishida-yuki/fbx_utils/assets/60187867/fc556600-1666-4f09-b1f9
 ## Features:
 - Comprehensive View: Effortlessly browse through your FBX materials.
 - Auto-Deform: Assign a material, and let the automation take care of the deform settings.
-- ShaderBuilder Ready: Seamless integration with ShaderBuilder material nodes.
+- ShaderBuilder Ready: Seamless integration with [ShaderBuilder](https://github.com/satoruhiga/TouchDesigner-ShaderBuilder) material nodes.
 - Insightful Info View: Gain clarity with Info view.
 - Rig Tree Display: Navigate your rig hierarchy with ease.
 - Smooth Transitions: Reimport or replace your FBX without losing your meticulously set material configurations.
